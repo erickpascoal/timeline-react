@@ -16,7 +16,7 @@ export const CenterLine = styled.div`
   top: 20px;
   transform: translateX(-50%);
 
-  .scroll-icon {
+  .scroll-to-top-icon {
     position: absolute;
     background: #f2f2f2;
     height: 40px;

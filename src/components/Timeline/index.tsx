@@ -11,7 +11,7 @@ export function Timeline({ lines }: TimelineProps) {
   return (
     <Container>
       <CenterLine>
-        <a href="/#" className="scroll-icon">
+        <a href="/#" className="scroll-to-top-icon">
           <i className="fa fa-chevron-up"></i>
         </a>
       </CenterLine>
